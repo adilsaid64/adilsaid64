@@ -15,6 +15,7 @@
 - Machine Learning and Data Science
 - Programming Python and R
 - Exploratory Data Analysis
+- Data Visualization
 - Statistics
 - Bayesian Inference
 - Problem Solving
