@@ -16,7 +16,7 @@ I am constantly doing new real-life and applicable Data Science and Machine Lear
 
 I have completed over ten different projects and a BSc H in Mathematics, from which I have gained a diverse set of applicable skills, knowledge and experience that I can use confidently as a Data Scientist.
 
-For all my projects, check out my [Portfolio.](https://github.com/adilsaid64/Data-Science-and-Machine-Learning-Portfolio)
+For all my projects, check out my [**Portfolio**.](https://github.com/adilsaid64/Data-Science-and-Machine-Learning-Portfolio)
 
 
 ## Skills
