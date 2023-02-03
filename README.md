@@ -12,8 +12,9 @@
 
 <a href="https://www.linkedin.com/in/adil-s64/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-I am constantly doing new real-life and applicable Data Science and Machine Learning projects to build on skills and experience that will help me solve problems and add value. Check out my
-[Portfolio.](https://github.com/adilsaid64/Data-Science-and-Machine-Learning-Portfolio)
+I am constantly doing new real-life and applicable Data Science and Machine Learning projects to build my skills and experiences. I want to use these to help solve a range of problems and add value anywhere I am. Currently, I have completed over ten different projects. 
+
+For all my projects, check out my [Portfolio.](https://github.com/adilsaid64/Data-Science-and-Machine-Learning-Portfolio)
 
 
 ## Skills
