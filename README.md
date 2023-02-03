@@ -18,10 +18,10 @@ adilsaid64@gmail.com
 
 - Machine Learning and Data Science
 - Programming Python and R
-- Exploratory Data Analysis & Data Visualization
-- Statistics & Bayesian Inference
+- Exploratory Data Analysis and Data Visualization
+- Statistics and Bayesian Inference
 - Problem Solving
-- Data Pre-processing & Feature Engineering
+- Data Pre-processing and Feature Engineering
 
 ## Intrests
 ⚽ Football
