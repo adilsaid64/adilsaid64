@@ -8,7 +8,7 @@
 
 Open for employment and project collaboration.
 
-Email : adilsaid64@gmail.com
+adilsaid64@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/adil-s64/)
 
