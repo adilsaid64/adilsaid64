@@ -8,7 +8,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/adil-s64/)
 
-## [Projects and Portfolio](https://github.com/adilsaid64/Data-Science-and-Machine-Learning-Portfolio)
+[Projects and Portfolio](https://github.com/adilsaid64/Data-Science-and-Machine-Learning-Portfolio)
 
 ## Skills
 
@@ -21,3 +21,9 @@
 - Problem Solving
 - Data Pre-processing
 - Feature Engineering
+
+## Intrests
+⚽ Football
+📚 Learning and Reading
+❤️ Health
+💻 Technology
