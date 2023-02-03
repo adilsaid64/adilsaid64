@@ -14,6 +14,9 @@
 
 - Machine Learning and Data Science
 - Programming Python and R
+- Exploratory Data Analysis
+- Statistics
+- Bayesian Inference
 - Problem Solving
 - Data Pre-processing
 - Data Cleaning
