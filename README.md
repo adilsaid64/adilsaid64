@@ -12,7 +12,7 @@
 
 <a href="https://www.linkedin.com/in/adil-s64/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-Constantly doing new real-life and applicable Data Science and Machine Learning projects to build on skills and experience. Check out my
+I am constantly doing new real-life and applicable Data Science and Machine Learning projects to build on skills and experience that will help me solve problems and add value. Check out my
 [Portfolio.](https://github.com/adilsaid64/Data-Science-and-Machine-Learning-Portfolio)
 
 
@@ -24,6 +24,10 @@ Constantly doing new real-life and applicable Data Science and Machine Learning 
 - Statistics and Bayesian Inference
 - Problem Solving
 - Data Pre-processing and Feature Engineering
+
+## Projects
+### Movie Ratings
+### Breast Cancer Classification
 
 ## Intrests
 ⚽ Football
