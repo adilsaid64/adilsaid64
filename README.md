@@ -1,4 +1,4 @@
-# Hey 👋 It's Adil Welcome to my GitHub Profile!
+# Hey 👋 It's Adil Welcome to my GitHub Profile
 
 ## About
 
