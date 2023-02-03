@@ -12,7 +12,9 @@
 
 <a href="https://www.linkedin.com/in/adil-s64/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-I am constantly doing new real-life and applicable Data Science and Machine Learning projects to build skills and experiences. I want to use what I learn to help solve a range of problems, add value and find data let solutions anywhere I am. Currently, I have completed over ten different projects.
+I am constantly doing new real-life and applicable Data Science and Machine Learning projects to build skills and experiences. I want to use what I learn to help solve a range of problems, add value and find data let solutions anywhere I am. 
+
+I have completed over ten different projects and a BSc H in Mathematics, from which I have gained a diverse set of applicable skills, knowledge and experience that I can use confidently as a Data Scientist.
 
 For all my projects, check out my [Portfolio.](https://github.com/adilsaid64/Data-Science-and-Machine-Learning-Portfolio)
 
