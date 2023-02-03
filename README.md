@@ -16,3 +16,5 @@
 - Programming Python and R
 - Problem Solving
 - Data Pre-processing
+- Data Cleaning
+- Feature Engineering
