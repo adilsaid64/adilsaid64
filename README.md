@@ -46,8 +46,10 @@ Used a Support Vector Machine Classifier to classify cancer cells as Malignant o
 ### Ecommerce Data
 
 An EDA and Linear Regression Model for Eccomerce data. Should the company focus its resources on improving its application or website?
-**Result**
-**Skills**
+
+**Result:** Built a Linear Regression Model to help a business make a decision on where to direct its resources.
+
+**Skills:** EDA, Linear Regression, Project Planning, Data Visualization
 
 ## Intrests
 ⚽ Football
