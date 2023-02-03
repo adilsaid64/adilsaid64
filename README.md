@@ -14,8 +14,6 @@
 
 [Projects and Portfolio](https://github.com/adilsaid64/Data-Science-and-Machine-Learning-Portfolio)
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adilsaid64-pattalam&layout=compact)
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adilsaid64&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 
