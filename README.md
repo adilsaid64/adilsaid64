@@ -20,5 +20,4 @@
 - Bayesian Inference
 - Problem Solving
 - Data Pre-processing
-- Data Cleaning
 - Feature Engineering
