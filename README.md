@@ -35,7 +35,7 @@ An EDA Project. How much can you trust the ratings shown on a movie online? Espe
  
 **Skills:** Exploratory Data Analysis, Problem Solving, Visulisation, Python Pandas and Seaborn
 
-### [Breast Cancer Classification](https://github.com/adilsaid64/Data-Science-and-Machine-Learning-Portfolio/blob/main/Machine%20Learning%20Practical:%206%20Real-World%20Applications/Breast%20Cancer%20Classification/README.md)
+### [Breast Cancer Classification](https://github.com/adilsaid64/Data-Science-and-Machine-Learning-Portfolio/blob/main/Machine%20Learning%20Practical:%206%20Real-World%20Applications/Breast%20Cancer%20Classification)
 
 Used a Support Vector Machine Classifier to classify cancer cells as Malignant or Benign.
 
@@ -44,7 +44,7 @@ Used a Support Vector Machine Classifier to classify cancer cells as Malignant o
 **Skills:** Machine Learning, Model Evaluation, Optimization, Classification
 
 
-### [Ecommerce Data](https://github.com/adilsaid64/Data-Science-and-Machine-Learning-Portfolio/blob/main/Python%20for%20Data%20Science%20and%20Machine%20Learning%20Bootcamp/Linear%20Regression%20Ecommerce%20Data/README.MD)
+### [Ecommerce Data](https://github.com/adilsaid64/Data-Science-and-Machine-Learning-Portfolio/blob/main/Python%20for%20Data%20Science%20and%20Machine%20Learning%20Bootcamp/Linear%20Regression%20Ecommerce%20Data)
 
 Should the company focus its resources on improving its application or website?
 
