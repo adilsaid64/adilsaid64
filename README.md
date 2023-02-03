@@ -26,7 +26,7 @@ I am constantly doing new real-life and applicable Data Science and Machine Lear
 - Data Pre-processing and Feature Engineering
 
 ## Projects
-### Movie Ratings
+### [Movie Ratings]()
 
 An EDA Project. How much can you trust the ratings shown on a movie online? Especially when the same company showing the ratings makes money from selling tickets? Is there a conflict of intrest for companies selling movie tickets and displaying movie ratings?
 
@@ -34,7 +34,7 @@ An EDA Project. How much can you trust the ratings shown on a movie online? Espe
  
 **Skills:** Exploratory Data Analysis, Problem Solving, Visulisation, Python Pandas and Seaborn
 
-### Breast Cancer Classification
+### [Breast Cancer Classification]()
 
 Used a Support Vector Machine Classifier to classify cancer cells as Malignant or Benign.
 
@@ -43,7 +43,7 @@ Used a Support Vector Machine Classifier to classify cancer cells as Malignant o
 **Skills:** Machine Learning, Model Evaluation, Optimization, Classification
 
 
-### Ecommerce Data
+### [Ecommerce Data](https://github.com/adilsaid64/Data-Science-and-Machine-Learning-Portfolio/tree/main/Python%20for%20Data%20Science%20and%20Machine%20Learning%20Bootcamp/Linear%20Regression%20Ecommerce%20Data)
 
 Should the company focus its resources on improving its application or website?
 
