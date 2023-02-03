@@ -14,13 +14,10 @@
 
 - Machine Learning and Data Science
 - Programming Python and R
-- Exploratory Data Analysis
-- Data Visualization
-- Statistics
-- Bayesian Inference
+- Exploratory Data Analysis & Data Visualization
+- Statistics & Bayesian Inference
 - Problem Solving
-- Data Pre-processing
-- Feature Engineering
+- Data Pre-processing & Feature Engineering
 
 ## Intrests
 ⚽ Football
