@@ -6,6 +6,10 @@
 
 📈 Working towards a career in Data Science and Machine Learning
 
+Open for employment and project collaboration.
+
+Email : adilsaid64@gmail.com
+
 [LinkedIn](https://www.linkedin.com/in/adil-s64/)
 
 [Projects and Portfolio](https://github.com/adilsaid64/Data-Science-and-Machine-Learning-Portfolio)
