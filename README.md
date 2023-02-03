@@ -2,7 +2,8 @@
 
 ## About
 
-🎓
+🎓 Final year BSc H Mathematics Student
+📈 Working towards a career in Data Science and Machine Learning
 
 [LinkedIn](https://www.linkedin.com/in/adil-s64/)
 
