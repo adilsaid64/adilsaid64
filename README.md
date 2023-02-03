@@ -8,14 +8,14 @@
 
 🙋🏽 Open for employment and project collaboration
 
-adilsaid64@gmail.com
-
-[LinkedIn](https://www.linkedin.com/in/adil-s64/)
+📧 adilsaid64@gmail.com
 
 <a href="https://www.linkedin.com/in/adil-s64/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-
 [Projects and Portfolio](https://github.com/adilsaid64/Data-Science-and-Machine-Learning-Portfolio)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 
 ## Skills
 
