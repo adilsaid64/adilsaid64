@@ -1,4 +1,4 @@
-<h3 style="text-align: center;">H3 that is center aligned</h3>
+<h1 style="text-align: center;">H1 that is center aligned</h1>
 
 
 # Hey 👋 It's Adil !
