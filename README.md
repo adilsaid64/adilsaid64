@@ -6,7 +6,7 @@
 
 📈 Working towards a career in Data Science and Machine Learning
 
-Open for employment and project collaboration.
+🙋🏽 Open for employment and project collaboration
 
 adilsaid64@gmail.com
 
