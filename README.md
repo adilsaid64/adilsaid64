@@ -25,6 +25,7 @@ For all my projects, check out my [Portfolio.](https://github.com/adilsaid64/Dat
 - Programming Python and R
 - Exploratory Data Analysis and Data Visualization
 - Statistics and Bayesian Inference
+- Time Series Analysis
 - Problem Solving
 - Data Pre-processing and Feature Engineering
 
