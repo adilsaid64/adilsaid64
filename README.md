@@ -38,7 +38,7 @@ An EDA Project. How much can you trust the ratings shown on a movie online? Espe
  
 **Skills:** Exploratory Data Analysis, Problem Solving, Visulisation, Python Pandas and Seaborn
 
-### [Breast Cancer Classification](https://github.com/adilsaid64/Data-Science-and-Machine-Learning-Portfolio/blob/main/Machine%20Learning%20Practical:%206%20Real-World%20Applications/Breast%20Cancer%20Classification)
+### [Breast Cancer Classification](https://github.com/adilsaid64/breast-cancer-classification)
 
 Used a Support Vector Machine Classifier to classify cancer cells as Malignant or Benign.
 
