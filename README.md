@@ -14,9 +14,8 @@
 
 I am constantly doing new real-life and applicable Data Science and Machine Learning projects to build skills and experiences. I want to use what I learn to help solve a range of problems, add value and find data led solutions anywhere I am. 
 
-So far have completed over ten different projects and a BSc H in Mathematics, from which I have gained a diverse set of applicable skills, knowledge and experience that I can use confidently as a Data Scientist.
+So far have completed over five different projects and a BSc H in Mathematics, from which I have gained a diverse set of applicable skills, knowledge and experience that I can use confidently as a Data Scientist.
 
-For all my projects, check out my [**Portfolio**.](https://github.com/adilsaid64/Data-Science-and-Machine-Learning-Portfolio)
 
 
 ## Skills
