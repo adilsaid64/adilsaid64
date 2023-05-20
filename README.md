@@ -30,6 +30,15 @@ For all my projects, check out my [**Portfolio**.](https://github.com/adilsaid64
 - Data Pre-processing and Feature Engineering
 
 ## Projects
+
+### [Behavior Driven Subscriptions](https://github.com/adilsaid64/behavior-driven-subscriptions)
+
+The project aimed to increase paid membership by identifying customers less likely to enroll and offering them targeted incentives.
+
+**Results:** Built a predictive model using logistic regression, analyzing customer data, and determining key features impacting conversion.
+
+**Skills:** Data analysis, Predictive modeling, Statistical analysis, Business strategy, Problem-solving
+
 ### [Movie Ratings](https://github.com/adilsaid64/Data-Science-and-Machine-Learning-Portfolio/blob/main/Python%20for%20Machine%20Learning%20&%20Data%20Science%20Masterclass/Movie%20Rating)
 
 An EDA Project. How much can you trust the ratings shown on a movie online? Especially when the same company showing the ratings makes money from selling tickets? Is there a conflict of intrest for companies selling movie tickets and displaying movie ratings?
