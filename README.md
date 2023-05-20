@@ -37,7 +37,7 @@ The project aimed to increase paid membership by identifying customers less like
 
 **Results:** Built a predictive model using logistic regression, analyzing customer data, and determining key features impacting conversion.
 
-**Skills:** Data analysis, Predictive modeling, Statistical analysis, Business strategy, Problem-solving
+**Skills:** Data analysis, Predictive modeling, Statistical analysis, Business strategy, Problem-solving, Data preprocessing, Feature engineering and Data visualization
 
 ### [Movie Ratings](https://github.com/adilsaid64/Data-Science-and-Machine-Learning-Portfolio/blob/main/Python%20for%20Machine%20Learning%20&%20Data%20Science%20Masterclass/Movie%20Rating)
 
