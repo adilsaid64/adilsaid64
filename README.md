@@ -55,7 +55,7 @@ Used a Support Vector Machine Classifier to classify cancer cells as Malignant o
 **Skills:** Machine Learning, Model Evaluation, Optimization, Classification
 
 
-### [Ecommerce Data](https://github.com/adilsaid64/Data-Science-and-Machine-Learning-Portfolio/blob/main/Python%20for%20Data%20Science%20and%20Machine%20Learning%20Bootcamp/Linear%20Regression%20Ecommerce%20Data)
+### [Ecommerce Data](https://github.com/adilsaid64/ecommerce-data)
 
 Should the company focus its resources on improving its application or website?
 
