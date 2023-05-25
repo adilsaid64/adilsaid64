@@ -12,10 +12,9 @@
 
 <a href="https://www.linkedin.com/in/adil-s64/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-I am an enthusiastic Data Scienctist with a pasion for Mathematics, Statistic and Machine Learning. I constantly engaging in real-life projects to develop practical skills and gain valuable experiences. My passion lies in leveraging the knowledge I acquire to solve a wide range of problems and provide data-driven solutions in any context.
+I am an enthusiastic Data Scienctist with a pasion for Mathematics, Statistic and Machine Learning. I am constantly engaging in real-life projects to develop practical skills, expose my self to new theoretical statistics concepts and gain valuable experiences. My passion lies in leveraging the knowledge I acquire to solve a wide range of problems and provide data-driven solutions in any context.
 
-With a BSc H degree in Mathematics under my belt, I have successfully completed over five distinct projects, equipping myself with a versatile skill set and extensive expertise that I confidently apply as a Data Scientist. My goal is to continue expanding my knowledge and making a meaningful impact through data analysis and machine learning techniques.
-
+With a BSc H degree in Mathematics and having successfully completed over five distinct projects, I have developed skills and gained experience that I confidently apply as a Data Scientist. My goal is to continue expanding my knowledge and making a meaningful impact through data analysis and machine learning techniques.
 
 
 ## Skills
