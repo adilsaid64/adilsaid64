@@ -2,7 +2,7 @@
 
 ## About
 
-🎓 Final year BSc H Mathematics Student
+🎓 BSc H Mathematics Graduate
 
 📈 Working towards a career in Data Science and Machine Learning
 
