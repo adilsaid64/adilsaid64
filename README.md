@@ -29,7 +29,7 @@ With a BSc H degree in Mathematics and having successfully completed over five d
 
 ## Projects
 
-### [Yelp Review Analysis Using Natrual Langauge Processing](https://github.com/adilsaid64/yelp-reviews)
+### [Predicting Customer Satisfaction from Yelp Reviews using NLP](https://github.com/adilsaid64/yelp-reviews)
 
 ### [Behavior Driven Subscriptions](https://github.com/adilsaid64/behavior-driven-subscriptions)
 
