@@ -31,6 +31,12 @@ With a BSc H degree in Mathematics and having successfully completed over five d
 
 ### [Predicting Customer Satisfaction from Yelp Reviews using NLP](https://github.com/adilsaid64/yelp-reviews)
 
+The goal of this project is to build a machine learning model that can predict whether customers are satisfied or not based on the reviews they have written. 
+
+**Results:** Learned the basics of Natrual Language Processsing, applying Count Vectorizer and using Naive Bayes Classiffiers. Built an a model thats 93% accurate at predicting customer satisfaction.
+
+**Skills:** Natrual Langauge Processing, Naive Bayes Classifiers, Count Vectorizer, Text Processing
+
 ### [Behavior Driven Subscriptions](https://github.com/adilsaid64/behavior-driven-subscriptions)
 
 The project aimed to increase paid membership by identifying customers less likely to enroll and offering them targeted incentives.
