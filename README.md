@@ -22,7 +22,8 @@ With a BSc H degree in Mathematics and having successfully completed over five d
 - Machine Learning and Data Science
 - Programming Python and R
 - Exploratory Data Analysis and Data Visualization
-- Statistics and Bayesian Inference
+- Statistics Analysis and Modelling 
+- Bayesian Inference
 - Time Series Analysis
 - Problem Solving
 - Data Pre-processing and Feature Engineering
