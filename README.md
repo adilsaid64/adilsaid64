@@ -36,6 +36,10 @@ With a BSc H degree in Mathematics and having successfully completed over five d
 
 This project was completed during a virtual internship with British Airways. The first task involved scraping customer review data to uncover valuable insights into customer preferences, satisfaction levels, and their overall experience with the company's services. The second task involved building a predictive model to determine whether customers would make a purchase and gain an understanding of the factors that influence buying behavior.
 
+**Results**: Using the BeautifulSoup library, I successfully scraped customer review data. I performed time series analysis to discover that ratings have been declining. Additionally, I examined the distribution of ratings across different classes and conducted sentiment analysis on the reviews provided by customers. Furthermore, I employed a random forest classifier to predict whether customers would make a purchase and identified the factors that influence their purchasing decisions.
+
+**Skills**: Data Scraping, Time Series Analysis, Data Visualization, Sentiment Analysis, Machine Learning, Classification, Predictive Modeling, Insight Extraction, Exploratory Data Analysis
+
 ### [Predicting Customer Satisfaction from Yelp Reviews using NLP](https://github.com/adilsaid64/yelp-reviews)
 
 The goal of this project is to build a machine learning model that can predict whether customers are satisfied or not based on the reviews they have written.
