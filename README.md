@@ -1,7 +1,7 @@
 # Hey 👋 It's Adil welcome to my GitHub Profile
 
 ## About
-
+s
 🎓 BSc H Mathematics Graduate
 
 📈 Working towards a career in Data Science and Machine Learning
