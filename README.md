@@ -33,11 +33,12 @@ With a BSc H degree in Mathematics and having successfully completed over five d
 ## Projects
 
 ### [Personalized Reading Recommendations](https://github.com/adilsaid64/book-rec-system)
-This project builds a book recommendation system that includes a search engine and personalized recommendations using collaborative filtering. Users can search for books, rate them, and create profiles. The system generates personalized book suggestions based on user preferences and ratings from similar users.
+The task was to develop a simple but creative recommendation system using Python to provide personalized reading recommendations.
 
-**Results:**
 
-**Skills:** 
+**Results:** Built a book recommendation system that includes a search engine and personalized recommendations using collaborative filtering. Users can search for books, rate them, and create profiles. The system generates personalized book suggestions based on user preferences and ratings from similar users. A simple web interface was built using Flask.
+
+**Skills:** Python, Flask, HTML, Collaborative Filtering, Data Preprocessing, Feature Engineering
 
 
 ### [British Airways Project](https://github.com/adilsaid64/british-airways-project)
