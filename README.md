@@ -32,9 +32,7 @@ With a BSc H degree in Mathematics and having successfully completed over five d
 
 ## Projects
 
-### [Personalized Reading Recommendations](https://github.com/adilsaid64/book-rec-system)
-
-<img align="left" width="250" height="150" src="https://libreshot.com/wp-content/uploads/2016/07/books.jpg">
+### [Personalized Reading Recommendations](https://github.com/adilsaid64/book-rec-system)<img align="left" width="250" height="150" src="https://libreshot.com/wp-content/uploads/2016/07/books.jpg">
 
 The task was to develop a simple but creative recommendation system using Python to provide personalized reading recommendations.
 
@@ -43,9 +41,7 @@ The task was to develop a simple but creative recommendation system using Python
 **Skills:** Python, Flask, HTML, Collaborative Filtering, Data Preprocessing, Feature Engineering
 
 
-### [British Airways Project](https://github.com/adilsaid64/british-airways-project)
-
-<img align="left" width="250" height="150" src="https://i.pinimg.com/736x/ee/fe/bd/eefebd4aa1b6e0e61fa5d2e206f1e946.jpg">
+### [British Airways Project](https://github.com/adilsaid64/british-airways-project)<img align="left" width="250" height="150" src="https://i.pinimg.com/736x/ee/fe/bd/eefebd4aa1b6e0e61fa5d2e206f1e946.jpg">
 
 This project was completed during a virtual internship with British Airways. The first task involved scraping customer review data to uncover valuable insights into customer preferences, satisfaction levels, and their overall experience with the company's services. The second task involved building a predictive model to determine whether customers would make a purchase and gain an understanding of the factors that influence buying behavior.
 
@@ -53,9 +49,7 @@ This project was completed during a virtual internship with British Airways. The
 
 **Skills**: Data Scraping, Time Series Analysis, Data Visualization, Sentiment Analysis, Machine Learning, Classification, Predictive Modeling, Insight Extraction, Exploratory Data Analysis
 
-### [Predicting Customer Satisfaction from Yelp Reviews using NLP](https://github.com/adilsaid64/yelp-reviews)
-
-<img align="left" width="250" height="150" src="https://www.pngitem.com/pimgs/m/42-422198_yelp-reviews-hd-png-download.png">
+### [Predicting Customer Satisfaction from Yelp Reviews using NLP](https://github.com/adilsaid64/yelp-reviews)<img align="left" width="250" height="150" src="https://www.pngitem.com/pimgs/m/42-422198_yelp-reviews-hd-png-download.png">
 
 The goal of this project is to build a machine learning model that can predict whether customers are satisfied or not based on the reviews they have written.
 
@@ -97,6 +91,7 @@ Should the company focus its resources on improving its application or website?
 **Skills:** EDA, Linear Regression, Project Planning, Data Visualization
 
 ## Intrests
+
 ⚽ Football
 📚 Learning and Reading
 ❤️ Health
