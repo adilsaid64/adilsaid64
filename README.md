@@ -32,6 +32,14 @@ With a BSc H degree in Mathematics and having successfully completed over five d
 
 ## Projects
 
+### [Personalized Reading Recommendations](https://github.com/adilsaid64/book-rec-system)
+This project builds a book recommendation system that includes a search engine and personalized recommendations using collaborative filtering. Users can search for books, rate them, and create profiles. The system generates personalized book suggestions based on user preferences and ratings from similar users.
+
+**Results:**
+
+**Skills:** 
+
+
 ### [British Airways Project](https://github.com/adilsaid64/british-airways-project)
 
 This project was completed during a virtual internship with British Airways. The first task involved scraping customer review data to uncover valuable insights into customer preferences, satisfaction levels, and their overall experience with the company's services. The second task involved building a predictive model to determine whether customers would make a purchase and gain an understanding of the factors that influence buying behavior.
