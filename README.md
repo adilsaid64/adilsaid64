@@ -4,9 +4,7 @@
 
 🎓 BSc H Mathematics Graduate
 
-📈 Working towards a career in Data Science and Machine Learning
-
-🙋🏽 Open for employment and project collaboration
+📈 Data Scientist at Zally
 
 📧 adilsaid64@gmail.com
 
@@ -14,9 +12,9 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/adilsaid64/)
 
 
-I am an enthusiastic Data Scienctist with a pasion for Mathematics, Statistic and Machine Learning. I am constantly engaging in real-life projects to develop practical skills, expose my self to new theoretical statistics concepts and gain valuable experiences. My passion lies in leveraging the knowledge I acquire to solve a wide range of problems and provide data-driven solutions in any context.
+I am an enthusiastic Data Scienctist passionate about Mathematics, Statistics and Machine Learning. I am constantly engaging in real-life projects to develop practical skills, expose myself to new theoretical statistics concepts and gain valuable experiences. My passion lies in leveraging the knowledge I acquire to solve a wide range of problems and provide data-driven solutions in any context.
 
-With a BSc H degree in Mathematics and having successfully completed over five distinct projects, I have developed skills and gained experience that I confidently apply as a Data Scientist. My goal is to continue expanding my knowledge and making a meaningful impact through data analysis and machine learning techniques.
+With a BSc H degree in Mathematics and having successfully completed over five distinct projects, I have developed skills and gained experience that I confidently apply as a Data Scientist. I aim to continue expanding my knowledge and making a meaningful impact through leverging data science and machine learning
 
 
 ## Skills
