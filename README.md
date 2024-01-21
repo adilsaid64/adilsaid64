@@ -1,6 +1,6 @@
 # Hey 👋 It's Adil welcome to my GitHub Profile
 
-Check out my portfolio (here)[adilsaid64.github.io]
+Check out my portfolio [here](adilsaid64.github.io).
 
 ## About
 
