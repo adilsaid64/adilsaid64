@@ -1,4 +1,4 @@
-Check out my portfolio [here](https://adilsaid64.github.io).
+Portfolio: [here](https://adilsaid64.github.io).
 
 🎓 BSc H Mathematics Graduate
 
