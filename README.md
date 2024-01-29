@@ -14,7 +14,3 @@
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" style="height:20px;">
   </a>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adilsaid64" alt="GitHub Streak" width="350">
-</div>
