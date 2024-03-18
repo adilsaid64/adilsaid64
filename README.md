@@ -15,7 +15,7 @@
   </a>
   <a href="https://medium.com/@adilsaid64">
   <img src="https://img.shields.io/badge/Medium-%2300ab6c.svg?&style=flat-square&logo=medium&logoColor=white" alt="Medium" style="height:20px;">
-</a>
+  </a>
 
 
 </div>
