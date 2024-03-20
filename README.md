@@ -1,4 +1,5 @@
 <h2 align="center">Adil Said - BSc H Mathematics Graduate & Data Scientist at Zally</h2>
+
 <p align="center">
   <a href="https://adilsaid64.github.io">Portfolio</a>
 </p>
@@ -16,6 +17,5 @@
   <a href="https://medium.com/@adilsaid64">
   <img src="https://img.shields.io/badge/Medium-%2300ab6c.svg?&style=flat-square&logo=medium&logoColor=white" alt="Medium" style="height:20px;">
   </a>
-
-
+  
 </div>
