@@ -1,4 +1,4 @@
-<h2 align="center">Adil Said - BSc H Mathematics Graduate & Data Scientist at Zally</h2>
+<h2 align="center">Adil Said - BSc H Mathematics Graduate & Data Scientist at zally</h2>
 
 <p align="center">
   <a href="https://adilsaid64.github.io">Portfolio</a>
